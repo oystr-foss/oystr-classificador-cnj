@@ -1,7 +1,7 @@
 'use strict';
 
 const { expect } = require('chai');
-const { parse, parseMany } = require('../index')
+const { parse, parseMany } = require('../index');
 
 describe('Classificador CNJ', () => {
 
